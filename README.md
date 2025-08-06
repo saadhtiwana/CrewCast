@@ -1,2 +1,2 @@
 # CrewCast
-Personalized Podcast Host using Open Source LMs
+Personalized Podcast Host using Open Source LLMs.
