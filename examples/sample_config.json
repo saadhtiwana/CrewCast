@@ -1,0 +1,7 @@
+{
+  "title": "The CrewCast Show",
+  "host_name": "Jordan",
+  "topics": ["climate", "robotics", "health"],
+  "segments": ["Top story roundup", "Deep dive", "Listener question", "Closing thoughts"],
+  "tone": "friendly"
+}
